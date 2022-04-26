@@ -7,7 +7,7 @@ version = "0.1.0"
 Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
 
 [compat]
-Genie = "5"
+Genie = "5, 4"
 julia = "1.6"
 
 [extras]
