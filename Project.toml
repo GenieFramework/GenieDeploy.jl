@@ -1,7 +1,7 @@
 name = "GenieDeploy"
 uuid = "d108a3e0-159a-438b-bbd8-7bf1a8b5a5d1"
 authors = ["Adrian Salceanu <adrian.salceanu@gmail.com> and contributors"]
-version = "1.0.0"
+version = "1.0.1"
 
 [deps]
 Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
