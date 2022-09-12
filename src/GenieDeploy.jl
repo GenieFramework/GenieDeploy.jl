@@ -1,5 +1,10 @@
 module GenieDeploy
 
+"""
+    run(command:Cmd)
+
+Run a command object, constructed with backticks
+"""
 function run(command::Cmd)
   try Base.run(command)
 

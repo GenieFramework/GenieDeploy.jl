@@ -2,7 +2,7 @@ using Documenter
 
 push!(LOAD_PATH,  "../../src")
 
-using GenieSession
+using GenieDeploy
 
 makedocs(
     sitename = "GenieDeploy - Deploying Genie Apps to cloud",
